@@ -1,9 +1,9 @@
 # Versões das tecnologias utilizadas
 
-PHP 8.0.26
-MySQL 8.0.31
-APACHE 2.4.54.2
-PHPMyAdmin 5.2.0
+PHP 8.0.26 <br>
+MySQL 8.0.31 <br>
+APACHE 2.4.54.2 <br>
+PHPMyAdmin 5.2.0 <br>
 
 # Estrutura do Banco de Dados
 
