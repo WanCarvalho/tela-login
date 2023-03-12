@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+.navbar a, p{
+    margin: 0;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: gray;
+    height: 3rem;
+    color: white;
+}
+
+.container {
+    margin-top: 2.5rem;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.tabela-registros {
+    width: 55rem;
+}
+
+h2 {
+    margin-top: 2rem;
+}
+
+.line-table:hover {
+
+    background-color: #f8f9fa;
+}
